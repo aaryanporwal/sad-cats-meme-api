@@ -3,100 +3,100 @@
 TODO: Design an API to serve random cat images from all 716 images in this repository
 
 <p align='center'>
-  <img src="src/image(28).jpeg" width="400" />
+  <img src="src/images(28).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(15).jpeg" width="400" />
+  <img src="src/images(15).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(18).jpeg" width="400" />
+  <img src="src/images(18).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(12).jpeg" width="400" />
+  <img src="src/images(12).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(13).jpeg" width="400" />
+  <img src="src/images(13).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(14).jpeg" width="400" />
+  <img src="src/images(14).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(10).jpeg" width="400" />
+  <img src="src/images(10).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(16).jpeg" width="400" />
+  <img src="src/images(16).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(20).jpeg" width="400" />
+  <img src="src/images(20).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(11).jpeg" width="400" />
+  <img src="src/images(11).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(19).jpeg" width="400" />
+  <img src="src/images(19).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(2).jpeg" width="400" />
+  <img src="src/images(2).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(17).jpeg" width="400" />
+  <img src="src/images(17).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(21).jpeg" width="400" />
+  <img src="src/images(21).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(22).jpeg" width="400" />
+  <img src="src/images(22).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(23).jpeg" width="400" />
+  <img src="src/images(23).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(24).jpeg" width="400" />
+  <img src="src/images(24).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(25).jpeg" width="400" />
+  <img src="src/images(25).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(26).jpeg" width="400" />
+  <img src="src/images(26).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(27).jpeg" width="400" />
+  <img src="src/images(27).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(17).jpeg" width="400" />
+  <img src="src/images(17).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(29).jpeg" width="400" />
+  <img src="src/images(29).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(3).jpeg" width="400" />
+  <img src="src/images(3).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(30).jpeg" width="400" />
+  <img src="src/images(30).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(31).jpeg" width="400" />
+  <img src="src/images(31).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(4).jpeg" width="400" />
+  <img src="src/images(4).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(5).jpeg" width="400" />
+  <img src="src/images(5).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(6).jpeg" width="400" />
+  <img src="src/images(6).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(7).jpeg" width="400" />
+  <img src="src/images(7).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(8).jpeg" width="400" />
+  <img src="src/images(8).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image(9).jpeg" width="400" />
+  <img src="src/images(9).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="src/image.jpeg" width="400" />
+  <img src="src/images.jpeg" width="400" />
 </p>
 <p align='center'>
   <img src="src/images(1).jpeg" width="400" />
