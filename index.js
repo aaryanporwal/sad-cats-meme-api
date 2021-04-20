@@ -22,9 +22,6 @@ const fs = require("fs");
 const app = express();
 const ip = require("internal-ip");
 
-// console.log(imgPath);
-// app.use("/img", express.static(`public`));
-
 const mydir = `${__dirname}/public`;
 
 const arr = fs.readdirSync(mydir);
@@ -36,6 +33,6 @@ app.get("/", (req, res) => {
 });
 
 app.listen(6900, () => console.log(`Server running on http://localhost:6900`));
-app.listen(6900, ip.v4.sync(), () =>
-  console.log(`Server running on http://${ip.v4.sync()}:6900`)
+app.listen(3900, ip.v4.sync(), () =>
+  console.log(`Server running on http://${ip.v4.sync()}:3900`)
 );
