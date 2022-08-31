@@ -1,4 +1,5 @@
-# Welcome to My Collection of Sad Cat Images 😻
+# Sad cats as a Service (ScaaS) 😸
+
 
 TODO: Design an API to serve random cat images from all 716 images in this repository
 
