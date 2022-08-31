@@ -1,7 +1,11 @@
 # Sad cats as a Service (ScaaS) 😸
 
 Sad cats are the perfect way to share your sadness with your friends or on social media. This API gives you the best way to express your emotions.
-TODO: Design an API to serve random cat images from all 716 images in this repository
+
+Only two endpoints:
+  1. `/`: redirects to a particular image with shareable link to the image. 
+  2. `/copy`: serves a random image on each reload. Good for just browsing through the images 🍿.
+
 
 <p align='center'>
   <img src="https://raw.githubusercontent.com/aaryanporwal/sad-cat-image-collection/master/src/image(28).jpeg" width="400" />
