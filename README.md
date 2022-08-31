@@ -3,41 +3,29 @@
 TODO: Design an API to serve random cat images from all 716 images in this repository
 
 <p align='center'>
-  <img src="public/images(28).jpeg" width="400" />
+  <img src="https://raw.githubusercontent.com/aaryanporwal/sad-cat-image-collection/master/src/image(28).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="public/images(15).jpeg" width="400" />
+  <img src="public/images(8).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="public/images(18).jpeg" width="400" />
+  <img src="public/images(9).jpeg" width="400" />
 </p>
 <p align='center'>
   <img src="public/images(12).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="public/images(13).jpeg" width="400" />
-</p>
-<p align='center'>
-  <img src="public/images(14).jpeg" width="400" />
-</p>
-<p align='center'>
-  <img src="public/images(10).jpeg" width="400" />
-</p>
-<p align='center'>
-  <img src="public/images(16).jpeg" width="400" />
-</p>
-<p align='center'>
-  <img src="public/images(20).jpeg" width="400" />
-</p>
-<p align='center'>
-  <img src="public/images(11).jpeg" width="400" />
-</p>
-<p align='center'>
   <img src="public/images(19).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="public/images(2).jpeg" width="400" />
+  <img src="public/images(13).jpeg" width="400" />
 </p>
+
+<p align='center'>
+  <img src="public/images(20).jpeg" width="400" />
+</p>
+
+
 <p align='center'>
   <img src="public/images(17).jpeg" width="400" />
 </p>
@@ -89,12 +77,7 @@ TODO: Design an API to serve random cat images from all 716 images in this repos
 <p align='center'>
   <img src="public/images(7).jpeg" width="400" />
 </p>
-<p align='center'>
-  <img src="public/images(8).jpeg" width="400" />
-</p>
-<p align='center'>
-  <img src="public/images(9).jpeg" width="400" />
-</p>
+
 <p align='center'>
   <img src="public/images.jpeg" width="400" />
 </p>
