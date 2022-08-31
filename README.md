@@ -1,6 +1,8 @@
 # Sad cats as a Service (ScaaS) 😸
 
-Sad cats are the perfect way to share your sadness with your friends or on social media. This API gives you the best way to express your emotions.
+Sad cats are the perfect way to share your sadness with your friends or on social media. This API gives you the best way to express your emotions on the Internet. 
+
+Tech stack: `Node.js` + `express` ✨
 
 Only two endpoints:
   1. `/`: redirects to a particular image with shareable link to the image. 
