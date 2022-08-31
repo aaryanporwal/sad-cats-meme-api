@@ -1,6 +1,6 @@
 # Sad cats as a Service (ScaaS) 😸
 
-
+Sad cats are the perfect way to share your sadness with your friends or on social media. This API gives you the best way to express your emotions.
 TODO: Design an API to serve random cat images from all 716 images in this repository
 
 <p align='center'>
@@ -26,7 +26,6 @@ TODO: Design an API to serve random cat images from all 716 images in this repos
   <img src="public/images(20).jpeg" width="400" />
 </p>
 
-
 <p align='center'>
   <img src="public/images(17).jpeg" width="400" />
 </p>
@@ -36,12 +35,7 @@ TODO: Design an API to serve random cat images from all 716 images in this repos
 <p align='center'>
   <img src="public/images(22).jpeg" width="400" />
 </p>
-<p align='center'>
-  <img src="public/images(23).jpeg" width="400" />
-</p>
-<p align='center'>
-  <img src="public/images(24).jpeg" width="400" />
-</p>
+
 <p align='center'>
   <img src="public/images(25).jpeg" width="400" />
 </p>
@@ -49,19 +43,10 @@ TODO: Design an API to serve random cat images from all 716 images in this repos
   <img src="public/images(26).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="public/images(27).jpeg" width="400" />
-</p>
-<p align='center'>
-  <img src="public/images(17).jpeg" width="400" />
-</p>
-<p align='center'>
   <img src="public/images(29).jpeg" width="400" />
 </p>
 <p align='center'>
   <img src="public/images(3).jpeg" width="400" />
-</p>
-<p align='center'>
-  <img src="public/images(30).jpeg" width="400" />
 </p>
 <p align='center'>
   <img src="public/images(31).jpeg" width="400" />
@@ -78,10 +63,6 @@ TODO: Design an API to serve random cat images from all 716 images in this repos
 <p align='center'>
   <img src="public/images(7).jpeg" width="400" />
 </p>
-
-<p align='center'>
-  <img src="public/images.jpeg" width="400" />
-</p>
 <p align='center'>
   <img src="public/images(1).jpeg" width="400" />
 </p>
@@ -94,12 +75,7 @@ TODO: Design an API to serve random cat images from all 716 images in this repos
 <p align='center'>
   <img src="public/images(101).jpeg" width="400" />
 </p>
-<p align='center'>
-  <img src="public/images(102).jpeg" width="400" />
-</p>
-<p align='center'>
-  <img src="public/images(103).jpeg" width="400" />
-</p>
+
 <p align='center'>
   <img src="public/images(104).jpeg" width="400" />
 </p>
@@ -128,7 +104,7 @@ TODO: Design an API to serve random cat images from all 716 images in this repos
   <img src="public/images(111).jpeg" width="400" />
 </p>
 <p align='center'>
-  <img src="public/images(112).jpeg" width="400" />
+  <img src="https://user-images.githubusercontent.com/54525904/187763226-1ae88bac-fb59-4e28-8128-2e6ab0ea52e3.png" width="400" />
 </p>
 <p align='center'>
   <img src="public/images(113).jpeg" width="400" />
